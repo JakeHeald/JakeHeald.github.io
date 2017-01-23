@@ -4,12 +4,14 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+I am a Computer Science major taking CS317p. I am interested in security programing and
+plan on specializing in that area of study.
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+I am currently in the Information Systems and Security Society (ISSS) club which helps deal
+with protecting information from potential hackers.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[jakeheald@utexas.edu](mailto:email@domain.com)

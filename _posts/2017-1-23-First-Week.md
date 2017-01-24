@@ -21,7 +21,7 @@ between my government and chemistry classes, which just means that I should have
 
 ### What's my experience of the class?
 
-So far I really enjoy this class as it is very interactive and I love this style of teaching compared to static power points. I especially loved the lecture about learning about the small syntactical differences between C++ and Java, as it is something I tend to gloss over when it comes to programming.
+So far I really enjoy this class as it is very interactive and I love this style of teaching compared to static power points. I especially loved the lecture about learning about the small syntactical differences between C++ and Java, as it is an important part of languages that I regretfully tend to gloss over when it comes to programming.
 
 ### What's my pick-of-the-week or tip-of-the-week?
 

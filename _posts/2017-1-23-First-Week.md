@@ -12,7 +12,7 @@ behind on the chapter readings, only partially completing them which was slightl
 ### What's in your way?
 
 I am very unfamiliar with the developer tools that I will need for the upcoming projects like
-Travis. Also this upcoming project will be one of the first times I have ever coded in C++.
+Travis. Also this upcoming project will be one of the first times I have ever coded in C++, however it will not be to great of a difficulty because I have heard it has similarities with Java which was my first coding language.
 
 ### What will you do next week?
 
@@ -21,7 +21,7 @@ between my government and chemistry classes, which just means that I should have
 
 ### What's my experience of the class?
 
-So far I really enjoy this class as it is very interactive and I love this style of teaching compared to static power points. I especially loved the lecture about learning about the small syntactical differences between C++ and Java (which was my first coding language), as it is something I tend to gloss over when it comes to programming.
+So far I really enjoy this class as it is very interactive and I love this style of teaching compared to static power points. I especially loved the lecture about learning about the small syntactical differences between C++ and Java, as it is something I tend to gloss over when it comes to programming.
 
 ### What's my pick-of-the-week or tip-of-the-week?
 

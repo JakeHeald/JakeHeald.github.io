@@ -25,4 +25,4 @@ So far I really enjoy this class as it is very interactive and I love this style
 
 ### What's my pick-of-the-week or tip-of-the-week?
 
-My pick of the week would have to be Piazza. You may use Piazza to just connect with your classes, but it can really help connect you to companies for internships. If you go to your profile page it can help companies see your achievements, languages learned, resume, and so much more.
+My pick of the week would have to be Electron. This is a bit of code found on the electron website that you can use to allow web development languages like Javascript, along with CSS and HTML to make desktop apps. It provides a lot of different tools that help make web pages function like a local app and I personally have had a lot of fun using it to create games and other applications in my free time.

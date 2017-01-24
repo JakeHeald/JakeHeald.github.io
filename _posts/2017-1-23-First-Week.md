@@ -25,4 +25,4 @@ So far I really enjoy this class as it is very interactive and I love this style
 
 ### What's my pick-of-the-week or tip-of-the-week?
 
-My pick of the week would have to be Piazza. You may use Piazza to just connect with your classes, but it can really help connect you to companies for internships. If you go to your profile page at https://piazza.com/careers/dashboard#/my_profile, it can help companies see your achievements, languages learned, resume, and so much more.
+My pick of the week would have to be Piazza. You may use Piazza to just connect with your classes, but it can really help connect you to companies for internships. If you go to your profile page it can help companies see your achievements, languages learned, resume, and so much more.

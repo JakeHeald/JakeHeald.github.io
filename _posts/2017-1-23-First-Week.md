@@ -2,18 +2,18 @@
 layout: post
 title: First Week Back
 ---
-
 ### What did you do this past week?
 For starters, I looked at all my classes’ syllabi to see if I would have any exam conflicts and 
-thankfully there seem to be no test conflicts that I will have to worry about this semester. 
+thankfully there seem to be no test conflicts that I will have to worry about this semester.
+I was able to get to most of the class readings for object oriented programing, but I fell
+behind on the chapter readings, only partially completing them.
 
 ### What's in your way?
-     
+I am very unfamiliar with the developer tools that I will need for the upcoming projects like
+Travis. Also this upcoming project will be one of the first times I have ever coded in C++.
 ### What will you do next week?
-I will plan out my time better as I had difficulty getting to all my readings across all my four classes.
-I have never had
-
+I will plan out my time better as I had difficulty getting to all my readings across all my four classes. I have never had this many classes assign a lot of heavy reading before, especially
+between my government and chemistry classes.
 ### What's my experience of the class?
-
+So far I really enjoy this class as I love taking on and learning a new language.
 ### What's my pick-of-the-week or tip-of-the-week?
-

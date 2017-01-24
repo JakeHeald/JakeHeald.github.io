@@ -12,7 +12,7 @@ behind on the chapter readings, only partially completing them which was slightl
 ### What's in your way?
 
 I am very unfamiliar with the developer tools that I will need for the upcoming projects like
-Travis. Also this upcoming project will be one of the first times I have ever coded in C++, however it will not be to great of a difficulty because I have heard it has similarities with Java which was my first coding language.
+Travis. Also this upcoming project will be one of the first times I have ever coded in C++, however I am confident I will be able to pick up on the language quickly as I have heard it has similarities with Java, which was my first coding language.
 
 ### What will you do next week?
 

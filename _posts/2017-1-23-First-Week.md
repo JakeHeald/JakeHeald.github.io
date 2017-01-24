@@ -4,8 +4,8 @@ title: First Week Back
 ---
 
 ### What did you do this past week?
-     For starters, this past week I reconditioned my body to get on a regular sleeping pattern
-for this semester. But
+For starters, I looked at all my classes syllabuses to see if I would have any exam conflicts and 
+thankfully seems that I will not have to worry about that issue this semester.
 ### What's in your way?
      
 ### What will you do next week?

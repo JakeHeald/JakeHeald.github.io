@@ -1,28 +1,18 @@
 ---
 layout: post
-title: First Week Back
+title: Second Week
 ---
 ### What did you do this past week?
-
-For starters, I looked at all my classes’ syllabi to see if I would have any exam conflicts and 
-thankfully there seem to be no test conflicts that I will have to worry about this semester.
-I was able to get to most of the class readings for object oriented programing, but I fell
-behind on the chapter readings, only partially completing them which was slightly stressful.
-
+  This past week I have begun working on the Collatz project. I set up the Github project and synchronized it with Travis CI. Though I had initial difficulty to get it working, I finally fixed the problem by adding the travis.yml that I had forgotten. I then got the simplest solution working and then got it working with a lazy cache. The lazy cache took me a couple hours as I had a segmentation fault, it however turned out to be a one line fix. I also was able to get to and do all my chapter readings for this week.
+  
 ### What's in your way?
-
-I am very unfamiliar with the developer tools that I will need for the upcoming projects like
-Travis. Also this upcoming project will be one of the first times I have ever coded in C++, however I am confident I will be able to pick up on the language quickly as I have heard it has similarities with Java, which was my first coding language.
+   Currently I am still unclear about parts of the work flow for Collatz for using the Github Classroom and the steps leading up to submitting the project. I also have to study for the quizzes more as I have been doing poorly on the last couple of quizzes.
 
 ### What will you do next week?
-
-I will plan out my time better as I had difficulty getting to all my readings across all my four classes. I have never had this many classes assign a lot of heavy reading before, especially
-between my government and chemistry classes, which just means that I should have managed my time better from the very start of the semester.
+   Next week I will be working on getting the rest of the HackerRank problems completed as I am currently only at a score of 27.69. I hope to increase the score to 40 using some code optimizations. If that is still not enough though, I will try to implement a meta cache for the largest cycle length for a given range.
 
 ### What's my experience of the class?
-
-So far I really enjoy this class as it is very interactive and I love this style of teaching compared to static power points. I especially loved the lecture about learning about the small syntactical differences between C++ and Java, as it is an important part of languages that I regretfully tend to gloss over when it comes to programming.
+   I still enjoy the class and like learning the language of C++ even though I have been having trouble with segmentation fault errors. The quizzes are still a bit stressful though but I hope that with some extra practice and more reading I can do better on them in the future.
 
 ### What's my pick-of-the-week or tip-of-the-week?
-
-My pick of the week would have to be Electron. This is a bit of code found on the electron website that you can use to allow web development languages like Javascript, along with CSS and HTML to make desktop apps. It provides a lot of different tools that help make web pages function like a local app and I personally have had a lot of fun using it to create games and other applications in my free time.
+   My tip of the week would be to try out Visual Studio Code. It is a free, open sourced code editor that I have used to work on most of my web development projects. It has a lot of tools and can be customized relatively simply by editing some of its files. It also has a built in formatter you can use with just a click of a button.

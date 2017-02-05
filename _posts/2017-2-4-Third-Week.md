@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Second Week
+title: Third Week
 ---
 ### What did you do this past week?
   This past week I finished the collatz project with plenty of time to spare. However, I did have to make some last minute changes to my doxygen file, as I found some comments that instructed me to make changes to it in my makefile. I also studied a lot harder for the quizzes, focusing more on reviewing the last lecture and my scores on them have improved significantly.

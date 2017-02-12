@@ -7,6 +7,7 @@ title: Fourth Week
 
 ### What's in your way?
    Currently, I still have to finish the voting project. I still have to write the dumbest solution and then I assume I will have to add at least one optimization to get the code passing all the Hacker Rank tests.
+   
 ### What will you do next week?
    This next week I will be writing a dumbest solution and optimizations to my Voting project with my partner. I believe the coding will not take too much time as the problem does not seem too difficult. What will take a lot of time will be the 1000 - 2000 lines of acceptance tests that my team will have to write.
 

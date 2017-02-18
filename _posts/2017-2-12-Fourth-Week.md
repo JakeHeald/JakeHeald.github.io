@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Fifth Week
+title: Fourth Week
 ---
 ### What did you do this past week?
   This past week I have worked on the Australian Voting project. The project does not seem to hard and my teammate Brian and I have already gotten reading the input for the test cases and the makefile working. I also went to the AMC coding competition and used Java to solve a couple of the problems, however I was really slow and only got up to almost completing problem four as I had not coded in java in a couple months.

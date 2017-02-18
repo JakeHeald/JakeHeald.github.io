@@ -3,17 +3,17 @@ layout: post
 title: Fifth Week
 ---
 ### What did you do this past week?
-  This past week I have worked on the Australian Voting project. The project does not seem to hard and my teammate Brian and I have already gotten reading the input for the test cases and the makefile working. I also went to the AMC coding competition and used Java to solve a couple of the problems, however I was really slow and only got up to almost completing problem four as I had not coded in java in a couple months.
+  This past week I finished up the Voting project with my partner Brian. We had an issue with the makefile that was breaking our Travis CI build on the remote repositories, but not the local repository. We managed to fix this issue by commenting out the line .PHONY: RunVoting.tmp in the makefile.
 
 ### What's in your way?
-   Currently, I still have to finish the voting project. I still have to write the dumbest solution and then I assume I will have to add at least one optimization to get the code passing all the Hacker Rank tests.
+   Currently, I still have to do better on the quizzes as my score has been dipping down due to some simple mistakes. I also have to start studing for the test as it is in the format of an open coding test and I have never done anything like that before.
    
 ### What will you do next week?
-   This next week I will be writing a dumbest solution and optimizations to my Voting project with my partner. I believe the coding will not take too much time as the problem does not seem too difficult. What will take a lot of time will be the 1000 - 2000 lines of acceptance tests that my team will have to write.
+   This next week I will probably be working on preparing for the Hack UTD competition that I am going to with my team. We are still coming up with some ideas and seeing what technology we could possible use to make a project around that will be provided at UTD. I will also study for the test a bit, however the test is still two weeks off.
 
 ### What's my experience of the class?
-   I like Downing’s lectures about pointers, he is really good a teaching the intricacies and when yo use * and & to achieve a desired affect. Coming from a Java background, I have never really been good at pointers and when using C I just new enough to get by in classes like CS439. So it is really great that I now have a better understanding of them through Downing's lectures.
+   I like how Downing has been teaching new concepts, like how he went over throughly how Const works in C++ with values and pointers. He even gave a memorable example of how they work about paint ball guns. I had never really used Const before in such depth, as I had only used it in Java to declare plain Constants and had never really though about what that really meant in to too much depth.                                                                                                                                                 
 
 ### What's my pick-of-the-week or tip-of-the-week?
-   My tip of the week would be to go to the career fair. Nothing is more important then getting an internship this summer and this is one of the best ways to get your resume out there. However, do not just bank on getting an internship from the career fair and just be done applying for the year and remember to apply to other companies online. So feel free to skip class just this once on the 14th and get the notes for them later to go to the career fair.
+   My pick of the week would be to check out Kali Linux. If you are interested in doing any security penetration testing or database security work, Kali Linux is a really useful tool as it is a Linux based OS that has many tools for penetration and security testing.
 

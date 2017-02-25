@@ -6,10 +6,10 @@ title: Sixth Week
   This past week I did absolutly nothing.
 
 ### What's in your way?
-   Nada
+   How im going to deal with failing the test. I plan to go take some theorpy sessions.
    
 ### What will you do next week?
-   Not sure
+   Suffer
 
 ### What's my experience of the class?
    Same old same old                                                                                                                                              

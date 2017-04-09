@@ -3,18 +3,16 @@ layout: post
 title: Eleventh Week
 ---
 ### What did you do this past week?
- This past week I started on the opp project Darwin with my partner Justin and have completed the initial design, we just need to squash a couple segmentation errors. I also attended the Atlassian presentation at the GDC. I really like the company's presentation on how they used data metrics to find the most efficient way to fix a delay the most efficient way with their product Hipchat, which I had used with previous internships. I also was impressed by the company's open source policy and culture and talked to the recruiter after the presentation and applied for an internship there this summer.
- 
- Finally, on Sunday I attended a short Hackathon hosted at the Business school by the group MISA. the project was called PolitiConflict which checked a politicians voting history with what companies gave them donations to see if there was a possibility of a conflict of interest. It worked by scraping two websites, Sunlight Congress API which had all the voting data for politicians and OpenSecrets which had all the company donations to politicians. Most of the calls to get information and the app were controlled by an app written in Node.js.
+  This past week I finished up the Darwin project with my partner Justin. We had a lot of small issues in our code that were causing segmentation faults, like doing a bound test that was just one number off. I also participated in the ACM coding competition and got to 22nd place, my highest yet. The problems mostly involved a lot of complex algorithms, yet I managed to solve quite a few of them.
 
 ### What's in your way?
- I currently still do not have a laptop after it fell and broke. However this next Monday I was informed from the UT computer store that... I would know how long it would take to fix it. I also still need to fix an issue with the direction being reset in our creature class for the Darwin project.
+  Currently I still need to finish my website I have been working on. I also need to get an internship. I am waiting to hear back from a couple companies that I had done online coding tests for and Attlassian has given me a 90 minute online coding test that I have to take to get to the next stage of the interview process.
    
 ### What will you do next week?
- This next week I hope to finish up the Darwin project and to work on my UTCS provided website.
+  I will start to work on the next project and hopefully finish it early next week. I will also try to finish up some of the completion questions later this week and a tempt the Google code jam as well. I will also finish up the Attlassian coding test.
 
 ### What's my experience of the class?
- This week the topic revolved around vectors. Downing first introduced us to very poorly written implementations of Vector to help us get a feel for how the class really works and to show us issues that could arise if the class is coded poorly. I feel this is really helpful as it helps me learn not to make the same mistakes that Downing shows in future classes I write in C++.
+ My experience this week was good. The project was fun as it felt like a puzzle trying to figure out what responsibilities each class of Darwin, Creature, and Species would have to avoid getters and setters. Also Downing has begun to teach us how static works, something I had never really used much in Java so I have little understanding of it and I am looking forward to learning its semantics.
 
 ### What's my pick-of-the-week or tip-of-the-week?
- My pick of the week would be to learn node.js. It is a very useful language to learn as it helps you control data passing between the backend and the front end on any website. 
+ My pick of the week would be to write unit tests for any project as you go along no matter how small or obvious a method can be. This is because this can help you focus where you need to debug instead of searching for one small error in one small method that you had not written so carefully.
